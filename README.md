@@ -1,4 +1,4 @@
-# BankLoanAnalysis
+# HDLC BankLoanAnalysis
 
 This project is a Bank Loan Analysis Application designed to provide insights into loan data, helping users analyze key trends, customer profiles, and loan performance metrics. The frontend offers an intuitive interface for visualizing and exploring data to support decision-making.
 
